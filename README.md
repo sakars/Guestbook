@@ -1,5 +1,5 @@
 # sakars/Guestbook
-![](https://tokei.rs/b1/github/sakars/guestbook)
+![](https://tokei.rs/b1/github/sakars/Guestbook)
 
 Feel free to make a PR of your entry into my guestbook.
 
