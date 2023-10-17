@@ -1,4 +1,5 @@
 # sakars/Guestbook
+![](https://tokei.rs/b1/github/sakars/guestbook)
 Feel free to make a PR of your entry into my guestbook.
 
 This is a small repo meant to house all the various guests that have visited.
